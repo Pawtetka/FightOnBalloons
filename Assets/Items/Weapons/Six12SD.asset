@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd008ab723e65c4b929b7178d527182, type: 3}
+  m_Name: Six12SD
+  m_EditorClassIdentifier: 
+  name: Six12SD
+  price: 525
+  typeOfItem: Weapon
+  icon: {fileID: 21300000, guid: 412444f01bb6e2d45bfbc3a05849740d, type: 3}
+  moneyType: DeathCoins
+  equipSlot: 0
+  bulletsQuantity: 100
+  fireRate: 1.2
+  bullet: {fileID: 7502384280236516637, guid: 3f8176a7c03da1f469faae149fe7ef52, type: 3}
+  health: 0
+  prefab: {fileID: 8215819823764421218, guid: 6fc12b9e10ab9f34c9bd75db31884edb, type: 3}

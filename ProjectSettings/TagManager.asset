@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - PlayerLegs
+  - EnemyLegs
+  - Ground
+  - Enemy
+  - Coin
+  - PlayerInfo
+  - EnemyInfo
+  - PlayerBalloons
+  - EnemyBalloons
+  - GroundWall
+  - PlayerWeapon
+  - Companion
+  - Enemies
+  - BigCast
+  - Shield
+  - Boss
+  - PermanentCast
+  - WaterFall
+  - Spikes
+  - DeathZone
+  - River
+  - Bomb
+  - IceShard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Characters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1517506493
+    locked: 0
+  - name: Cast
+    uniqueID: 3031350205
+    locked: 0

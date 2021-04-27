@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd008ab723e65c4b929b7178d527182, type: 3}
+  m_Name: 417
+  m_EditorClassIdentifier: 
+  name: 417
+  price: 800
+  typeOfItem: Weapon
+  icon: {fileID: 21300000, guid: 2e66da63932a0f14492b0864d4283690, type: 3}
+  moneyType: Money
+  equipSlot: 0
+  bulletsQuantity: 15
+  fireRate: 0.7
+  bullet: {fileID: 1088180896040451855, guid: 013b7f91205587543acba32b3d57594c, type: 3}
+  health: 0
+  prefab: {fileID: 9054115220232611507, guid: 7d6d67a59d098e24dad0827a42fe1cd5, type: 3}

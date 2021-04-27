@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd008ab723e65c4b929b7178d527182, type: 3}
+  m_Name: P90
+  m_EditorClassIdentifier: 
+  name: P90
+  price: 2500
+  typeOfItem: Weapon
+  icon: {fileID: 21300000, guid: ccb7f43cdaaed9948ae004c4476996be, type: 3}
+  moneyType: Money
+  equipSlot: 0
+  bulletsQuantity: 30
+  fireRate: 0.5
+  bullet: {fileID: 6132887505514450599, guid: 01c8d919f1f528c43a222b8677833217, type: 3}
+  health: 0
+  prefab: {fileID: 8863731745808567852, guid: ca1e744b8b36f774da7e2278af585bc6, type: 3}
